@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alyelrabat
 - 👀 I’m interested in Cloud Consulting
-- 🌱 I’m currently learning Cloud Engineering
+- 🌱 I’m currently learning for the AZ400 Exam
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ? feel free to message me
 
